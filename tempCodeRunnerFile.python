@@ -1,0 +1,5 @@
+ages = {"sam": 25, "riya": 30}
+print(ages["sam"])
+ages["lee"] =35
+ages["sam"] =29
+print(ages)
